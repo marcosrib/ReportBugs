@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "endless-force-258300",
+  "private_key_id": "24f378e630e7dab1b61c38dc223faf66861409ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIQKi25L/4xttb\npprwYWB7xCe8w+eZkt+SL+GGNb0wNL2+i6mVRnuunyS03QfPnAI2NPeZTFIqAfQM\nx3GYoL/JZXQy52vv42hDL4GhaLmRLLBcNYtWHmyU34pFu1RBdMHSZzVtJhR/CzIM\nKckeSN5LtHTnaEZr0BlfC2EzQv3nBXBjGEhPvJAXc7BYFNIN57T/2rRxQYS/A2Fo\nZoz3cx8TRB122F358zL/T9F+H0v7W0RFgCgNKalWdNvojGKYqHimxeQqGvouwkb9\neFAA16FcfHdY6Fmgqf1oPPzZW9LZDfvEu8iw5eFaUZ4+KTqA3SWnmDrvyNhpzQkf\nMUDejGGDAgMBAAECggEAYJ66CMzkR1+DVXxUg6koSW9CkRSg+XthPgK2OPBS4SCB\ncJ+oaisA4CdPKaj/7M7kTk1OLfwiJLyeiU/t4mulPcIix7DbZnp9wvT4Ae4qov5B\n9ausGBhD4azd5XlWVOLF5gQARjK6bvXy5uV+cYtNHo/qXAD3AWv94dr2wioPodgm\nLi5ZAsA8PwYuH8j5fgeqUF+IRqrb8Vs29SmRuxXoAUX05Ii9kSojIxT6kLzbbiwc\nmBOebgWwlHFEovQ62Pb/YhJIVAq8nnYGX0PYVXir6kOKuP8fCMtluHGSrxzGM31G\nAUY1jia8oaaE/p9R4RA7xFL3KByrdiFem+ejFslF2QKBgQDuwsT+wjUkzi0A7Amr\nuJTwBxelNxZbpNM8dsf8bcbmoDLRo48AWJ1K3SCNFaJnEi8YIWvgY7p9sbhaLorY\nPAVaEd3Xa8aRFbf11OHKB2pn/Cb6vGYjrr/ykp4aSeLm9TMmPyqhLKAiA6o2HzFL\n6zZJU8IQudtcM3t0KaGDv+yFFwKBgQDWthtqgqmNJjOHeBj3mIBvfrvhmvQtLDuG\nSzZY3Xv59LURB29mPrjT9PGi10Ks4QP+k2VbKvFz496KjJ8e0phyPnYWv1My6yXJ\np8XIQsiPDChFd0bkVL7MS4bY55N/aUFGgOTZ26g2GhyW5dl2jUedKr548Ui4oBOc\nJ3yf2X2idQKBgHYPTQWD1m9qm4o3LNkCnnLJrwF86ctLB0CAo4bIaW+kizxqGc3c\nA3r/OJdKuVEqBqtx6zu7VH3OoQ/Gr9UYaLUO3Jkmq7sV+C7Qow0Y+Z6NamDVQ9Ql\nFrjFkvQA0PfPCwnAdj3YKR5onYPBjMizd9ZuWimXHUbMFiFsbHcPMc7lAoGBAMra\n1uA0frhqpTiSURRsMrwkQqIN4jBjoAFrQfeHmkA34HIsUiWJkNpAi6NMOSRYm4uD\n+ri9w824NmM0JIncckdNmAg5zwNGgzcYmZZw8kekNtAatxG2t2UQ3mBDumkgKpnP\n4WerTit/VA+FLYYCSOzGm5psbEZyhtR7whTMSRSZAoGBAIm5ilXDh1AMwxegEieN\nbkFLqqWeMfP5ZFTFbVKuH368N6Ud5pjr5LOxFS10IZSZXAzdwpeX65K51qfC27xj\nZyvR3ffnUE/OPr4zYBhmSMN5BTXoDTYm3at4UM1hN/EAMdLpTX8D1yR6n8caVURE\n8svbMBnK1BQrUnIcyvo37R79\n-----END PRIVATE KEY-----\n",
+  "client_email": "bugtracker@endless-force-258300.iam.gserviceaccount.com",
+  "client_id": "117468773182223711500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bugtracker%40endless-force-258300.iam.gserviceaccount.com"
+}
